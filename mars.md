@@ -1,4 +1,4 @@
-# Earth
+# Mars
 
 Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System after Mercury. 
 
